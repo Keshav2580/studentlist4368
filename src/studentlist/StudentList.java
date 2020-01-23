@@ -62,8 +62,6 @@ public class StudentList {
         for (Student student: studentList) {
             System.out.println(student.getName());
         }
-        
     }
-
 }
 
